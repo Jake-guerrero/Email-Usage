@@ -1,11 +1,14 @@
-# Email-Usage
+# Email Usage
+
+### *Project by Jake Guerrero*
+<br/>
 
 ![Logo](Gmail.jpg)
 
-### This is a project of how many people use which of the email providers between Google's Gmail and AOL's mail at their peak and how educated the person is by their email.
+### This project analyzes how many people use Gmail vs AOL email and their education level based email provider. Inspiration for this project came from this [article.](https://www.earnest.com/blog/what-your-email-says-about-your-education/) 
+<br/>
+<br/>
 
+### This project was created by using Microsoft PowerPoint.
 
 ![Aol](Aol.png)
-
-
-![Gmail](Gmail.png)
