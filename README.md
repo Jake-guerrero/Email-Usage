@@ -9,6 +9,6 @@
 <br/>
 <br/>
 
-### This project was created by using Microsoft PowerPoint.
+
 
 ![Aol](Aol.png)
